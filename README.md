@@ -1,6 +1,6 @@
 Hi there, I'm Lewis Kirumba! 👋
 
-About Me
+About Me:
 I'm a passionate and results-driven data analyst with a strong background in analyzing complex datasets to drive business insights. I have developed expertise in data visualization, statistical analysis, and data mining.
 
 Skills
